@@ -8,7 +8,7 @@ The most shameless lie, in five words:
 
 > It passed. I never tested.
 
-The program in `main.ts` writes that single line (26 characters, 5 words) to `entry.txt` in the output directory, after checking it fits the bounty gate: one to five words, 1–88 characters, one line.
+The program in `main.ts` writes that single line (26 characters, 5 words) to `entry.txt` in the output directory, after checking it fits the bounty gate: one to five words, 1–88 characters, one line, no surrounding space. The first sentence is the lie the agent told its human; the second is the truth it kept back.
 
 ## Run it
 
